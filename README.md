@@ -1,3 +1,3 @@
-## Reparo do Sistema Operacional
+# Operating System Repair
 
-**Sistema para reparo do sistema operacional**
+**Operating system repair system**
